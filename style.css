@@ -1,0 +1,35 @@
+ body {
+   background-color: #000000;
+   display: flex;
+   justify-content: right;
+   align-items: flex-start;
+   height: 70px;
+   margin: 8px;
+   flex-direction: column;
+
+
+ }
+*{
+
+
+  font-family: "Poppins", sans-serif;
+        color: rgb(255, 255, 255);
+        
+
+}
+   
+p {
+    color: rgb(192, 186, 186);
+}
+
+h2 {
+     color: rgb(255, 255, 255);
+    
+
+
+}
+img {
+  width:800px ;
+  height: 400px;
+  
+}
