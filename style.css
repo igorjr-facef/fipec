@@ -2,7 +2,7 @@
    background-color: #000000;
    display: flex;
    justify-content: right;
-   align-items: flex-start;
+   align-items: center;
    height: 70px;
    margin: 8px;
    flex-direction: column;
@@ -12,7 +12,7 @@
 *{
 
 
-  font-family: "Poppins", sans-serif;
+  font-family: "Jaro", sans-serif;
         color: rgb(255, 255, 255);
         
 
@@ -32,4 +32,11 @@ img {
   width:800px ;
   height: 400px;
   
+} 
+
+table{
+    width: 300px;
+    height: 300px;
+    color: aqua;
+
 }
